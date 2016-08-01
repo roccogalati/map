@@ -175,6 +175,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "DronyX",
+        "Role": "Manufacturer & Distributor",
+        "Website": "http://www.dronyx.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.06011899999999,
+          18.315485999999964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "Arobose",
         "Role": "Manufacturer & Distributor",
         "Website": "http://www.arobose.com/shop/67-gamme-turtlebot-2",
